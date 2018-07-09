@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">preferencetestactivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="textSize_entry">  
+        <item>小</item>  
+        <item>中</item>  
+        <item>大</item>  
+    </string-array>  
+    <string-array name="textSize_entry_value">  
+        <item>0</item>  
+        <item>1</item>  
+        <item>2</item>  
+    </string-array>  
+</resources>
